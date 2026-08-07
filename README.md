@@ -57,7 +57,7 @@ Key findings from EDA:
 
 #### Outline of Project
 
-- [Link to notebook - diabetes_analysis.ipynb]()
+- [diabetes_analysis.ipynb](https://github.com/tanima-vijay/diabetes-risk-prediction/blob/main/diabetes_analysis.ipynb)
 
 ##### Contact and Further Information
 For questions about this project, please reach out via the GitHub repository.
